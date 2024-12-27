@@ -3,5 +3,11 @@
 I’m learning
 
 I Love Coding and Future
-and
-Minecraft
+at:
+-Java
+-python
+-C#
+-html 
+-javascript
+and PHP
+
